@@ -1,3 +1,4 @@
+
 h1 {
     font-size: 24px;
     padding-bottom: 10px;
@@ -30,6 +31,24 @@ ul {
     justify-content: center;
 }
 
+p {
+    display: flex;
+    gap: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    gap: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
 a {
     color: blue;
 }
@@ -40,4 +59,3 @@ footer h3 {
     border-color: black;
     border-radius: 1px;
     background-color: gainsboro;
-
