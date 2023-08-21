@@ -1,3 +1,8 @@
+* {
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+}
 
 h1 {
     font-size: 24px;
@@ -6,6 +11,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex: auto;
 }
 
 h2 {
@@ -15,11 +21,14 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex: auto;
 }
 nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex: auto;
+    
 }
 
 ul {
@@ -29,6 +38,7 @@ ul {
     padding-top: 20px;
     align-items: center;
     justify-content: center;
+    flex: auto;
 }
 
 p {
@@ -38,6 +48,7 @@ p {
     padding-top: 20px;
     align-items: center;
     justify-content: center;
+    flex: auto;
 }
 
 img {
@@ -47,6 +58,7 @@ img {
     padding-top: 20px;
     align-items: center;
     justify-content: center;
+    flex: auto;
 }
 
 a {
@@ -59,3 +71,4 @@ footer h3 {
     border-color: black;
     border-radius: 1px;
     background-color: gainsboro;
+    flex: auto;
